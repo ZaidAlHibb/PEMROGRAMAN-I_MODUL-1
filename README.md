@@ -1,6 +1,6 @@
 # Praktikum Pemrograman I - Modul 1
 
-Repository ini berisi source code untuk Praktikum Pemrograman I (Soal 101 - 110) dalam bahasa **C** dan **Python**.
+Repository ini berisi source code untuk Praktikum Pemrograman I dalam bahasa **C** dan **Python**.
 
 ## Daftar File / Source Code
 
