@@ -3,7 +3,6 @@
 int main()
 {
     int a = 4; int b = 8; int c = 3;
-    int hasil;
     
     printf("Variabel a bernilai %d\n\n", a);
     printf("Variabel b bernilai %d\n\n", b);
